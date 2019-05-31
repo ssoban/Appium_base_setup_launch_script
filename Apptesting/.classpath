@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/soban/Downloads/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/soban/Downloads/gson-2.8.5.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/soban/Downloads/java-client-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/soban/Downloads/Compressed/jar_files/javax.websocket-client-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/soban/Downloads/Compressed/jar_files_2/tyrus-standalone-client-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
